@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/BittuKumar6930/leedcode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/BittuKumar6930/leedcode/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -28,4 +29,20 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/BittuKumar6930/leedcode/tree/master/0067-add-binary) |
+## Array
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/BittuKumar6930/leedcode/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/BittuKumar6930/leedcode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/BittuKumar6930/leedcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/BittuKumar6930/leedcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
