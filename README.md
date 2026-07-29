@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/BittuKumar6930/leedcode/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/BittuKumar6930/leedcode/tree/master/0225-implement-stack-using-queues) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,4 +46,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/BittuKumar6930/leedcode/tree/master/0169-majority-element) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/BittuKumar6930/leedcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/BittuKumar6930/leedcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
