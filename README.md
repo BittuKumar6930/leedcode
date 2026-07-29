@@ -17,6 +17,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/BittuKumar6930/leedcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/BittuKumar6930/leedcode/tree/master/0169-majority-element) |
+| [0645-set-mismatch](https://github.com/BittuKumar6930/leedcode/tree/master/0645-set-mismatch) |
 ## Math
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/BittuKumar6930/leedcode/tree/master/0067-add-binary) |
+| [0645-set-mismatch](https://github.com/BittuKumar6930/leedcode/tree/master/0645-set-mismatch) |
 ## Simulation
 |  |
 | ------- |
@@ -34,6 +36,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/BittuKumar6930/leedcode/tree/master/0169-majority-element) |
+| [0645-set-mismatch](https://github.com/BittuKumar6930/leedcode/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -42,6 +45,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/BittuKumar6930/leedcode/tree/master/0169-majority-element) |
+| [0645-set-mismatch](https://github.com/BittuKumar6930/leedcode/tree/master/0645-set-mismatch) |
 ## Counting
 |  |
 | ------- |
