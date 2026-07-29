@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/BittuKumar6930/leedcode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/BittuKumar6930/leedcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/BittuKumar6930/leedcode/tree/master/0225-implement-stack-using-queues) |
 ## Hash Table
 |  |
@@ -23,6 +24,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/BittuKumar6930/leedcode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/BittuKumar6930/leedcode/tree/master/0067-add-binary) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/BittuKumar6930/leedcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -35,6 +37,7 @@
 ## Array
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/BittuKumar6930/leedcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/BittuKumar6930/leedcode/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/BittuKumar6930/leedcode/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
