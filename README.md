@@ -7,6 +7,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/BittuKumar6930/leedcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/BittuKumar6930/leedcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/BittuKumar6930/leedcode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BittuKumar6930/leedcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/BittuKumar6930/leedcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/BittuKumar6930/leedcode/tree/master/0067-add-binary) |
 ## Stack
@@ -68,4 +69,24 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BittuKumar6930/leedcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BittuKumar6930/leedcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BittuKumar6930/leedcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BittuKumar6930/leedcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BittuKumar6930/leedcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BittuKumar6930/leedcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
