@@ -44,6 +44,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/BittuKumar6930/leedcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BittuKumar6930/leedcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/BittuKumar6930/leedcode/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/BittuKumar6930/leedcode/tree/master/0238-product-of-array-except-self) |
 | [0645-set-mismatch](https://github.com/BittuKumar6930/leedcode/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
 |  |
@@ -91,4 +92,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BittuKumar6930/leedcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/BittuKumar6930/leedcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
