@@ -76,6 +76,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BittuKumar6930/leedcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0061-rotate-list](https://github.com/BittuKumar6930/leedcode/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/BittuKumar6930/leedcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## String Matching
 |  |
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/BittuKumar6930/leedcode/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/BittuKumar6930/leedcode/tree/master/0061-rotate-list) |
 ## Recursion
 |  |
 | ------- |
