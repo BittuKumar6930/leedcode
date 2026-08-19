@@ -28,6 +28,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/BittuKumar6930/leedcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/BittuKumar6930/leedcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/BittuKumar6930/leedcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/BittuKumar6930/leedcode/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BittuKumar6930/leedcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Bit Manipulation
@@ -42,6 +43,7 @@
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/BittuKumar6930/leedcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/BittuKumar6930/leedcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BittuKumar6930/leedcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/BittuKumar6930/leedcode/tree/master/0169-majority-element) |
