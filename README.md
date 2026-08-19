@@ -47,6 +47,7 @@
 | [0169-majority-element](https://github.com/BittuKumar6930/leedcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/BittuKumar6930/leedcode/tree/master/0238-product-of-array-except-self) |
 | [0645-set-mismatch](https://github.com/BittuKumar6930/leedcode/tree/master/0645-set-mismatch) |
+| [0724-find-pivot-index](https://github.com/BittuKumar6930/leedcode/tree/master/0724-find-pivot-index) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/BittuKumar6930/leedcode/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/BittuKumar6930/leedcode/tree/master/0724-find-pivot-index) |
 ## Linked List
 |  |
 | ------- |
