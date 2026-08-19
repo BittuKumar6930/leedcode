@@ -48,6 +48,7 @@
 | [0238-product-of-array-except-self](https://github.com/BittuKumar6930/leedcode/tree/master/0238-product-of-array-except-self) |
 | [0645-set-mismatch](https://github.com/BittuKumar6930/leedcode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/BittuKumar6930/leedcode/tree/master/0724-find-pivot-index) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/BittuKumar6930/leedcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/BittuKumar6930/leedcode/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/BittuKumar6930/leedcode/tree/master/0645-set-mismatch) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/BittuKumar6930/leedcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Counting
 |  |
 | ------- |
